@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Project Documentation
+
+# Overview
+
+The AlumUnite User Management System Dashboard is a simple web application designed to manage user profiles and offer basic management functionality for a fictional alumni organization. The application showcases how an admin can view, update, and manage user profiles, providing an intuitive interface to view users' details, and modify user statuses.
+
+This project is built with React and uses local state to simulate user data and management actions. It provides basic functionality like displaying user profiles, editing their status.
+
+How to Use the Application
+Viewing Profiles: Upon loading the dashboard, you will see a list of users with their details.
+
+Updating User Status: Go to Manage user page  click the  action button "change status"
